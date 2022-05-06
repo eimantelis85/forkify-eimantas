@@ -122,6 +122,5 @@ const init = function () {
   addRecipeView.addHandlerOpenForm(controlOpenForm);
   addRecipeView.addHandlerCloseForm(controlCloseForm);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('Welcome');
 };
 init();
